@@ -1,4 +1,4 @@
-# Галерея о о супергероях
+# Галерея Cупергероев
 
 <img src="./src/assets/superheroes.png" alt="superheros_gallery" />
 
