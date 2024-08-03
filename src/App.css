@@ -1,0 +1,38 @@
+.app {
+  text-align: center;
+}
+
+.hero-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hero-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.hero-card h2 {
+  margin-top: 0;
+}
+
+.hero-card label {
+  display: block;
+  margin-top: 8px;
+}
+
+.hero-card input {
+  margin-top: 4px;
+  width: 50px;
+}
